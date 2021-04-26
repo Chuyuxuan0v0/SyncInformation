@@ -1,0 +1,120 @@
+#input{
+    display: block;
+    height: 50px;
+    width: 90%;
+    position: absolute;
+    left: 50%;
+    BACKGROUND-COLOR: transparent;
+    top:20%;
+	transform: translate(-50%,-50%);
+    border-radius: 5px;
+    border: 2px solid rgb(179, 25, 120);
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.background1{
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+color:  rgb(179, 25, 120);
+background: rgb(218, 232, 238);
+
+}
+.myButton{
+    color: rgb(4, 95, 19);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 20%;
+    top: 29%;
+    background-color:#44c767;
+	border-radius:42px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:5px 8px;
+	text-decoration:none;
+}
+.myButtonf{
+    font-size: 8px;
+    color: rgb(4, 95, 19);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 40%;
+    top: 29%;
+}
+.myButtonf1{
+  font-size: 8px;
+    color: rgb(4, 95, 19);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 60%;
+    top: 29%;
+}
+.myButton1{
+    color: rgb(4, 95, 19);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 80%;
+    top: 29%;
+
+
+
+    background-color:#317fbe;
+	border-radius:42px;
+	border:1px solid #317fbe;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:14px;
+	padding:5px 8px;
+	text-decoration:none;
+}
+#bts{
+padding-top: 20%;
+height: 30px;
+
+}
+#box{
+    display: block;
+    height: 600px;
+    width: 360px;
+	border-radius: 20px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+    border: 2px solid rgb(179, 25, 120);
+   
+}
+#version{
+
+    text-align: center;
+}
+#message{
+    display: block;
+    height: 380px;
+    margin: 10px 10px 10px 10px;
+    border: 2px solid rgb(179, 25, 120);
+    border-radius: 10px;
+    overflow-y:auto; overflow-x:auto;
+}
+.times{
+   color: rgb(86, 18, 175) !important;
+   font-size: 9px;
+   padding-left: 150px;
+}
+.context{
+    color: rgb(11, 107, 86) !important;
+    font-size: 18px;
+    padding-left: 12px;
+    font-family: '华文中宋','Courier New', Courier, monospace;
+}

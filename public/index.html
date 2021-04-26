@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="img/favicon1.ico" type="images/x-ico" />
+    <title>同步板</title>
+</head>
+
+<body>
+    <script src="js/jquery.js"></script>
+  
+        <div class="background1">
+            <div id="box">
+                <h1 style="text-align: center;">在线同步板</h1>
+                <input type="text" placeholder="输入要同步的文本内容" autocomplete="off" id="input">
+                <div id="bts">
+                    <button id="submit" class="myButton">确定同步</button>
+                    <button id="getinfo" class="myButton1">查看历史</button>
+                    <button id="getinfo" class="myButtonf">清除信息</button>
+                    <button id="getinfo" class="myButtonf1">使用方法</button>
+
+                </div>
+
+                <div id="message">
+                    
+                    <p id="cons">
+                        
+                    </p>
+                    
+                </div>
+                <br>
+                <p id="version">Vesrion 1.0.0 By <a href="http://blog.chuyuxuan.top">Chuyuxuan</a> </p>
+            </div>
+        </div>
+ 
+    <link rel="stylesheet" href="css/style.css">
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/browser.js"></script>
+
+</body>
+
+</html>
