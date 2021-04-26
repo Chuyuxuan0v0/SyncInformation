@@ -14,22 +14,8 @@
 + Sokect.io
 
 ## 项目结构
-│  LICENSE
-│  package-lock.json
-│  package.json
-│  README.md
-│  server.js
-└─public
-    │  index.html
-    ├─css
-    │      style.css
-    ├─img
-    │      favicon1.ico
-    └─js
-            browser.js
-            jquery.js
-            mongdbs.js
-            
+![](demo2.jpg)
+
 
 ## 项目使用方法
 
