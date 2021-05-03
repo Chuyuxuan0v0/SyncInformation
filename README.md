@@ -2,7 +2,7 @@
 
 ## 简介
 基于B/S架构，多端同步在线网络剪贴板，解决跨设备剪贴文本内容问题。
-演示地址：[jt.chuyuxuan.top](jt.chuyuxuan.top)
+演示地址：[jt.chuyuxuan.top](https://jt.chuyuxuan.top)
 
 ![](demo1.jpg)
 
