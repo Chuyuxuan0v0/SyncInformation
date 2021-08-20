@@ -1,6 +1,7 @@
 {
     "name": "socket-chat-example",
     "version": "0.0.1",
+    "author": "Chuyxuan",
     "description": "my first socket.io app",
     "dependencies": {
         "bufferutil": "^4.0.1",
